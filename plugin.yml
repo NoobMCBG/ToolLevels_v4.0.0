@@ -1,0 +1,33 @@
+name: ToolLevels
+main: NoobMCBG\ToolLevels\Main
+api: [3.0.0, 4.0.0]
+version: 3.0.0
+author: NoobMCBG, S2TwKen
+description: ToolLevels by NoobMCBG, Skill Thor and HacTram by S2TwKen
+
+commands:
+  toollevel:
+    description: Lệnh Để Mở Menu ToolLevels
+    aliases: [dungcu, tool]
+  settool:
+    description: Lệnh Để Chỉnh Cấp ToolLevels
+    aliases: [settoollevel, setdungcu]
+  toptool:
+    description: Lệnh Để Mở Menu TOP Dụng Cụ
+    aliases: [toptoollevel, topdungcu]
+  pickaxeleveling:
+    description: Lệnh Để Mở Menu Kĩ Năng PickaxeLeveling
+    aliases: [x3exptool]
+  thor:
+    description: Lệnh Để Mở Menu Cài Đặt Kĩ Năng Thor
+    aliases: [toolthor]
+  hactram:
+    description: Lệnh Để Mở Menu Cài Đặt Kĩ Năng Hắc Trảm
+    aliases: [tooohactram]
+permissions:
+  toollevel.settool:
+    description: Quyền Lệnh /settool
+    default: op
+  toollevel.pickaxeleveling:
+    description: Quyền Lệnh /pickaxeleveling
+    default: op
