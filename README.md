@@ -4,7 +4,7 @@
  </div>
  
 <br>
-## Commands:
+# Commands:
 
 | **Command** | **Description** |
 | --- | --- |
@@ -16,14 +16,13 @@
 | **/bungno** | **Lệnh Để Mở Menu Cài Đặt Kĩ Năng Bùng Nổ** |
   
 <br>
-## Permissions:
+# Permissions:
 
-| **Permission** | **Default** |
-| **toollevel.settool** | **op** |
-| **toollevel.pickaxeleveling** | **op** |
+- `toollevel.settool`
+- `toollevel.pickaxeleveling`
  
 <br>
-## PocketMine-MP Version
+# PocketMine-MP Version
 
-| **PHP** | **API PMMP ** |
-| **7.4** | **3.0.0** |
+- PHP Version: 7.4
+- API PocketMine-MP: 3.0.0
