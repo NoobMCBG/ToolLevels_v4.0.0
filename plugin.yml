@@ -1,7 +1,7 @@
 name: ToolLevels
 main: NoobMCBG\ToolLevels\Main
 api: [3.0.0, 4.0.0]
-version: 3.0.0
+version: 4.0.0
 author: NoobMCBG, S2TwKen
 description: ToolLevels by NoobMCBG, Skill Thor and HacTram by S2TwKen
 
