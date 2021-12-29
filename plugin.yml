@@ -24,6 +24,9 @@ commands:
   hactram:
     description: Lệnh Để Mở Menu Cài Đặt Kĩ Năng Hắc Trảm
     aliases: [tooohactram]
+  bungno:
+    description: Lệnh Để Mở Menu Cài Đặt Kĩ Năng Bùng Nổ
+    aliases: [tooobungno]
 permissions:
   toollevel.settool:
     description: Quyền Lệnh /settool
