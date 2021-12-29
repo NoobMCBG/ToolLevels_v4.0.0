@@ -4,7 +4,7 @@
  </div>
  
 <br>
-# Commands:
+# Commands
 
 | **Command** | **Description** |
 | --- | --- |
@@ -16,7 +16,7 @@
 | **/bungno** | **Lệnh Để Mở Menu Cài Đặt Kĩ Năng Bùng Nổ** |
   
 <br>
-# Permissions:
+# Permissions
 
 - `toollevel.settool`
 - `toollevel.pickaxeleveling`
